@@ -1,5 +1,5 @@
 # Clinic Setup Project  
-**CPM + PRA + Optimization (Z3)**
+**CPM + PRA **
 
 ## Overview
 This project focuses on planning and scheduling the setup of a small medical clinic using **project management techniques**.  
