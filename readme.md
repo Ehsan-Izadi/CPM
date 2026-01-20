@@ -57,4 +57,5 @@ Each activity is defined by:
 ```bash
 pip install -r requirements.txt
 
+jupyter notebook src/main.ipynb
 
